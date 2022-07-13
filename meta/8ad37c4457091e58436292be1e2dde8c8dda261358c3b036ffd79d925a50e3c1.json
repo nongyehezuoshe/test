@@ -1,0 +1,22 @@
+{
+    "format": "CHIP-0007",
+    "name": "LBT",
+    "description": "LBT",
+    "sensitive_content": false,
+    "collection": {
+        "name": "LBT",
+        "id": "5C65FCD5-60A3-494E-83D2-C368DB98EFE7",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "LBT"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "type",
+            "value": "MOON"
+        }
+    ]
+}
