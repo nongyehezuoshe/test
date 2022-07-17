@@ -1,0 +1,50 @@
+{
+    "format": "CHIP-0007",
+    "name": "BSH Number TEST #MTAy",
+    "description": "100,000 NFTs on Chia, from BSH community.",
+    "sensitive_content": false,
+    "collection": {
+        "name": "BSH Number NFTs TEST",
+        "id": "EEB54777-D907-46E4-BC1F-A4563A840B86",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "100,000 NFTs on Chia, from BSH community."
+            },
+            {
+                "type": "twitter",
+                "value": "@brothershiwan"
+            },
+            {
+                "type": "website",
+                "value": "https://brothershiwan.com"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Number",
+            "value": "36382"
+        },
+        {
+            "trait_type": "Material",
+            "value": "silver"
+        },
+        {
+            "trait_type": "Style",
+            "value": "221"
+        },
+        {
+            "trait_type": "Words",
+            "value": "5oiR5bm25LiN6KeJ5b6XRVRI5Lya5oiQ5Li6eGNo55qE5a+55omL77yM6LaF6LaKRVRI6L+Z5qC355qE55uu5qCH77yM5a+5eGNo5p2l6K+05pi+5b6X5aSq5bCP44CC"
+        },
+        {
+            "trait_type": "Color",
+            "value": "NONE"
+        },
+        {
+            "trait_type": "Timestamp",
+            "value": 1658035215
+        }
+    ]
+}
