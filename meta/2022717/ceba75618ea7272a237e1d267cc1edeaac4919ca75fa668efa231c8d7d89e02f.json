@@ -1,6 +1,6 @@
 {
     "format": "CHIP-0007",
-    "name": "BSH Number TEST #ODk=",
+    "name": "BSH Number TEST #OTI=",
     "description": "100,000 NFTs on Chia, from BSH community.",
     "sensitive_content": false,
     "collection": {
@@ -24,7 +24,7 @@
     "attributes": [
         {
             "trait_type": "Number",
-            "value": "84561"
+            "value": "18239"
         },
         {
             "trait_type": "Material",
@@ -32,7 +32,7 @@
         },
         {
             "trait_type": "Style",
-            "value": "221"
+            "value": "020"
         },
         {
             "trait_type": "Words",
@@ -44,7 +44,7 @@
         },
         {
             "trait_type": "Timestamp",
-            "value": 1658025021
+            "value": 1658031620
         }
     ]
 }
