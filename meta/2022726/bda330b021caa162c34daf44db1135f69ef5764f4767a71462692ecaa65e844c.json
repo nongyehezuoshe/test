@@ -1,0 +1,159 @@
+{
+    "format": "CHIP-0007",
+    "name": "BSH Number TEST #NQ==",
+    "description": "100,000 NFTs on Chia, from BSH community.",
+    "sensitive_content": false,
+    "collection": {
+        "name": "BSH Number Series NFTs TEST",
+        "id": "EEB54777-D907-46E4-BC1F-A4563A840B86",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "100,000 NFTs on Chia, from BSH community."
+            },
+            {
+                "type": "twitter",
+                "value": "@brothershiwan"
+            },
+            {
+                "type": "website",
+                "value": "https://brothershiwan.com"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Number",
+            "value": "16403"
+        },
+        {
+            "trait_type": "Material",
+            "value": "copper"
+        },
+        {
+            "trait_type": "Style",
+            "value": "011"
+        },
+        {
+            "trait_type": "Words",
+            "value": "5aaC5p6c5oiR546w5Zyo5pyJ5LiA5Liq5Lq/77yM5oiR6KaB5YWo6YOo5oqV6LWE5aWH5Lqa5YWs5Y+45b2T5Liq5bCP6IKh5Lic44CC"
+        },
+        {
+            "trait_type": "Color",
+            "value": [
+                [
+                    13,
+                    188,
+                    102,
+                    255
+                ],
+                [
+                    162,
+                    207,
+                    155,
+                    255
+                ],
+                [
+                    222,
+                    40,
+                    100,
+                    255
+                ],
+                [
+                    193,
+                    227,
+                    71,
+                    255
+                ],
+                [
+                    228,
+                    9,
+                    48,
+                    255
+                ],
+                [
+                    193,
+                    92,
+                    152,
+                    255
+                ],
+                [
+                    171,
+                    192,
+                    148,
+                    255
+                ],
+                [
+                    114,
+                    147,
+                    80,
+                    255
+                ],
+                [
+                    0,
+                    195,
+                    250,
+                    255
+                ],
+                [
+                    50,
+                    251,
+                    47,
+                    255
+                ],
+                [
+                    221,
+                    197,
+                    165,
+                    255
+                ],
+                [
+                    177,
+                    65,
+                    194,
+                    255
+                ],
+                [
+                    213,
+                    251,
+                    114,
+                    255
+                ],
+                [
+                    235,
+                    168,
+                    204,
+                    255
+                ],
+                [
+                    202,
+                    133,
+                    191,
+                    255
+                ],
+                [
+                    81,
+                    199,
+                    157,
+                    255
+                ],
+                [
+                    227,
+                    154,
+                    97,
+                    255
+                ],
+                [
+                    86,
+                    192,
+                    161,
+                    255
+                ]
+            ]
+        },
+        {
+            "trait_type": "Timestamp",
+            "value": 1658847884
+        }
+    ]
+}

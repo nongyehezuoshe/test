@@ -1,0 +1,159 @@
+{
+    "format": "CHIP-0007",
+    "name": "BSH Number TEST #NQ==",
+    "description": "100,000 NFTs on Chia, from BSH community.",
+    "sensitive_content": false,
+    "collection": {
+        "name": "BSH Number Series NFTs TEST",
+        "id": "EEB54777-D907-46E4-BC1F-A4563A840B86",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "100,000 NFTs on Chia, from BSH community."
+            },
+            {
+                "type": "twitter",
+                "value": "@brothershiwan"
+            },
+            {
+                "type": "website",
+                "value": "https://brothershiwan.com"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Number",
+            "value": "39152"
+        },
+        {
+            "trait_type": "Material",
+            "value": "gold"
+        },
+        {
+            "trait_type": "Style",
+            "value": "011"
+        },
+        {
+            "trait_type": "Words",
+            "value": "5qKm5oOz5rOo5a6a5piv5a2k54us55qE5peF56iL77yM6Lev5LiK5bCR5LiN5LqG6LSo55aR5ZKM5Ziy56yR77yM5L2G5piv6YKj5Y+I5oCO5LmI5qC377yM5ZOq5oCV6YGN5L2T6bOe5Lyk5Lmf6KaB5YuH5pWi55u05YmN44CC5pyJ5qKm5Yir5oCV55eb77yM5oOz6LWi5Yir5ZaK5YGc77yBQ2hpYeeahOacquadpeS4jeaYr+aipu+8jFhDSOavj+aemjEw5LiH576O6YeR44CC"
+        },
+        {
+            "trait_type": "Color",
+            "value": [
+                [
+                    37,
+                    206,
+                    167,
+                    255
+                ],
+                [
+                    145,
+                    31,
+                    134,
+                    255
+                ],
+                [
+                    63,
+                    159,
+                    200,
+                    255
+                ],
+                [
+                    3,
+                    130,
+                    25,
+                    255
+                ],
+                [
+                    2,
+                    255,
+                    104,
+                    255
+                ],
+                [
+                    110,
+                    240,
+                    235,
+                    255
+                ],
+                [
+                    82,
+                    230,
+                    218,
+                    255
+                ],
+                [
+                    240,
+                    236,
+                    77,
+                    255
+                ],
+                [
+                    62,
+                    234,
+                    202,
+                    255
+                ],
+                [
+                    5,
+                    161,
+                    238,
+                    255
+                ],
+                [
+                    231,
+                    90,
+                    29,
+                    255
+                ],
+                [
+                    151,
+                    69,
+                    77,
+                    255
+                ],
+                [
+                    126,
+                    177,
+                    139,
+                    255
+                ],
+                [
+                    127,
+                    104,
+                    211,
+                    255
+                ],
+                [
+                    186,
+                    164,
+                    11,
+                    255
+                ],
+                [
+                    215,
+                    246,
+                    181,
+                    255
+                ],
+                [
+                    149,
+                    240,
+                    165,
+                    255
+                ],
+                [
+                    112,
+                    28,
+                    129,
+                    255
+                ]
+            ]
+        },
+        {
+            "trait_type": "Timestamp",
+            "value": 1658848659
+        }
+    ]
+}

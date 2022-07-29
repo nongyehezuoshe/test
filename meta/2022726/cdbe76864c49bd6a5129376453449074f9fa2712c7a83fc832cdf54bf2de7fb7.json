@@ -1,0 +1,159 @@
+{
+    "format": "CHIP-0007",
+    "name": "BSH Number TEST #NQ==",
+    "description": "100,000 NFTs on Chia, from BSH community.",
+    "sensitive_content": false,
+    "collection": {
+        "name": "BSH Number Series NFTs TEST",
+        "id": "EEB54777-D907-46E4-BC1F-A4563A840B86",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "100,000 NFTs on Chia, from BSH community."
+            },
+            {
+                "type": "twitter",
+                "value": "@brothershiwan"
+            },
+            {
+                "type": "website",
+                "value": "https://brothershiwan.com"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Number",
+            "value": "69525"
+        },
+        {
+            "trait_type": "Material",
+            "value": "silver"
+        },
+        {
+            "trait_type": "Style",
+            "value": "010"
+        },
+        {
+            "trait_type": "Words",
+            "value": "5qKm5oOz5rOo5a6a5piv5a2k54us55qE5peF56iL77yM6Lev5LiK5bCR5LiN5LqG6LSo55aR5ZKM5Ziy56yR77yM5L2G5piv6YKj5Y+I5oCO5LmI5qC377yM5ZOq5oCV6YGN5L2T6bOe5Lyk5Lmf6KaB5YuH5pWi55u05YmN44CC5pyJ5qKm5Yir5oCV55eb77yM5oOz6LWi5Yir5ZaK5YGc77yBQ2hpYeeahOacquadpeS4jeaYr+aipu+8jFhDSOavj+aemjEw5LiH576O6YeR44CC"
+        },
+        {
+            "trait_type": "Color",
+            "value": [
+                [
+                    212,
+                    68,
+                    62,
+                    255
+                ],
+                [
+                    125,
+                    30,
+                    188,
+                    255
+                ],
+                [
+                    213,
+                    28,
+                    42,
+                    255
+                ],
+                [
+                    192,
+                    109,
+                    125,
+                    255
+                ],
+                [
+                    110,
+                    92,
+                    16,
+                    255
+                ],
+                [
+                    191,
+                    40,
+                    255,
+                    255
+                ],
+                [
+                    160,
+                    105,
+                    47,
+                    255
+                ],
+                [
+                    28,
+                    112,
+                    158,
+                    255
+                ],
+                [
+                    116,
+                    242,
+                    199,
+                    255
+                ],
+                [
+                    130,
+                    163,
+                    54,
+                    255
+                ],
+                [
+                    31,
+                    144,
+                    35,
+                    255
+                ],
+                [
+                    107,
+                    26,
+                    108,
+                    255
+                ],
+                [
+                    42,
+                    112,
+                    66,
+                    255
+                ],
+                [
+                    66,
+                    252,
+                    125,
+                    255
+                ],
+                [
+                    92,
+                    63,
+                    0,
+                    255
+                ],
+                [
+                    244,
+                    90,
+                    27,
+                    255
+                ],
+                [
+                    198,
+                    154,
+                    37,
+                    255
+                ],
+                [
+                    197,
+                    227,
+                    127,
+                    255
+                ]
+            ]
+        },
+        {
+            "trait_type": "Timestamp",
+            "value": 1658844851
+        }
+    ]
+}

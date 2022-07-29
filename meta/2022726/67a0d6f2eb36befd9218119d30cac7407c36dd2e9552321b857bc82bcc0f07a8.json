@@ -1,0 +1,159 @@
+{
+    "format": "CHIP-0007",
+    "name": "BSH Number TEST #NQ==",
+    "description": "100,000 NFTs on Chia, from BSH community.",
+    "sensitive_content": false,
+    "collection": {
+        "name": "BSH Number Series NFTs TEST",
+        "id": "EEB54777-D907-46E4-BC1F-A4563A840B86",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "100,000 NFTs on Chia, from BSH community."
+            },
+            {
+                "type": "twitter",
+                "value": "@brothershiwan"
+            },
+            {
+                "type": "website",
+                "value": "https://brothershiwan.com"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Number",
+            "value": "74560"
+        },
+        {
+            "trait_type": "Material",
+            "value": "gold"
+        },
+        {
+            "trait_type": "Style",
+            "value": "201"
+        },
+        {
+            "trait_type": "Words",
+            "value": "5qKm5oOz5rOo5a6a5piv5a2k54us55qE5peF56iL77yM6Lev5LiK5bCR5LiN5LqG6LSo55aR5ZKM5Ziy56yR77yM5L2G5piv6YKj5Y+I5oCO5LmI5qC377yM5ZOq5oCV6YGN5L2T6bOe5Lyk5Lmf6KaB5YuH5pWi55u05YmN44CC5pyJ5qKm5Yir5oCV55eb77yM5oOz6LWi5Yir5ZaK5YGc77yBQ2hpYeeahOacquadpeS4jeaYr+aipu+8jFhDSOavj+aemjEw5LiH576O6YeR44CC"
+        },
+        {
+            "trait_type": "Color",
+            "value": [
+                [
+                    224,
+                    27,
+                    170,
+                    255
+                ],
+                [
+                    166,
+                    103,
+                    212,
+                    255
+                ],
+                [
+                    66,
+                    169,
+                    90,
+                    255
+                ],
+                [
+                    50,
+                    199,
+                    16,
+                    255
+                ],
+                [
+                    247,
+                    163,
+                    154,
+                    255
+                ],
+                [
+                    234,
+                    136,
+                    144,
+                    255
+                ],
+                [
+                    222,
+                    169,
+                    70,
+                    255
+                ],
+                [
+                    11,
+                    88,
+                    12,
+                    255
+                ],
+                [
+                    222,
+                    210,
+                    145,
+                    255
+                ],
+                [
+                    130,
+                    36,
+                    141,
+                    255
+                ],
+                [
+                    112,
+                    101,
+                    173,
+                    255
+                ],
+                [
+                    109,
+                    127,
+                    151,
+                    255
+                ],
+                [
+                    168,
+                    205,
+                    204,
+                    255
+                ],
+                [
+                    244,
+                    194,
+                    254,
+                    255
+                ],
+                [
+                    80,
+                    132,
+                    63,
+                    255
+                ],
+                [
+                    20,
+                    156,
+                    203,
+                    255
+                ],
+                [
+                    164,
+                    142,
+                    184,
+                    255
+                ],
+                [
+                    236,
+                    56,
+                    73,
+                    255
+                ]
+            ]
+        },
+        {
+            "trait_type": "Timestamp",
+            "value": 1658848062
+        }
+    ]
+}
